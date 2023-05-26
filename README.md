@@ -2,15 +2,18 @@
 
 <!--
 **kungfupizza/kungfupizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Here are some ideas to get you started:
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤵 About Me:
+- 🏦 I'm currently working for a huge consomer electronics company where I make innovative embedded products.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I use daily ```C/C++```, ``` Python```, and ``` docker```
+- 🌱 I’m currently enhancing my skills in Rust and Project management
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Technology, and Psychology
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can cook awesome food👨‍🍳
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
